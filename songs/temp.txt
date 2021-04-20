@@ -1,1 +1,1 @@
-
+Due to pygame limitations only few mp3 formats are played succesfully
