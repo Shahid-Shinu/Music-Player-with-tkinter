@@ -1,1 +1,1 @@
-
+Due to few limitation of tkinter only png images can be loaded succesfully
