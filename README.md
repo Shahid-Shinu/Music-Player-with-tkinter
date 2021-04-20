@@ -7,3 +7,5 @@ pip install tkinter
 pip install mutagen
 pip install pygame
 
+Read temp.txt for more information on songs and images in thier respective folders
+
